@@ -1,5 +1,5 @@
 # Ecommerce-Dashboard
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](image.png)
 
 📌 Project Overview
 
