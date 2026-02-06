@@ -1,4 +1,6 @@
 # Ecommerce-Dashboard
+![Dashboard Preview](images/dashboard.png)
+
 📌 Project Overview
 
 This project is an interactive E-commerce Sales Dashboard built using Microsoft Power BI to analyze sales performance, customer behavior, and product trends. The dashboard helps stakeholders make data-driven business decisions by providing clear insights through dynamic visualizations.
